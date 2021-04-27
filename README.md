@@ -85,10 +85,10 @@ DVM
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{sun2021dvm,
+@inproceedings{sun2021dvm,
   author    = {Yanan Sun and Guanzhi Wang and Qiao Gu and Chi-Keung Tang and Yu-Wing Tai}
   title     = {Deep Video Matting via Spatio-Temporal Alignment and Aggregation},
-  journal   = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year      = {2021},
 }
 ```
