@@ -73,11 +73,7 @@ DVM
 
    Link: https://pan.baidu.com/s/1yBJr0SqsEjDToVAUb8dSCw  Password: l9ck
 
-4. Run the command to generate training/testing datasets. About 1T storage is needed.
-
-   ```
-   bash run.sh
-   ```
+4. Use `data/process.py` to generate training/testing datasets. About 1T storage is needed.
 
 
 ### Reference
